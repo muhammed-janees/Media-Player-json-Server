@@ -1,0 +1,104 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "React",
+      "url": "https://nickroberts.ninja/wp-content/uploads/2017/07/react.jpg",
+      "embbedLink": "https://www.youtube.com/embed/SqcY0GlETPk"
+    },
+    {
+      "id": "2",
+      "caption": "Angular",
+      "url": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-1024.png",
+      "embbedLink": "https://www.youtube.com/embed/k5E2AVpwsko"
+    },
+    {
+      "id": "3",
+      "caption": "MERN",
+      "url": "https://miro.medium.com/max/1400/1*k0SazfSJ-tPSBbt2WDYIyw.png",
+      "embbedLink": "https://www.youtube.com/embed/fKJVxItLiUw"
+    },
+    {
+      "id": "4",
+      "caption": "Vue Js",
+      "url": "https://swansoftwaresolutions.com/wp-content/uploads/2020/01/Benefits-of-Using-VUE.JS.jpeg",
+      "embbedLink": "https://www.youtube.com/embed/nhBVL41-_Cw"
+    },
+    {
+      "id": "5",
+      "caption": "Luminar",
+      "url": "https://media-exp1.licdn.com/dms/image/C510BAQEOtipWcEz4fQ/company-logo_200_200/0/1575287672869?e=2159024400&v=beta&t=ytiyGwQ8QFsaAX9rxtDsTCLKmTBun96uSrPECYcBg2c",
+      "embbedLink": "https://www.youtube.com/embed/1skqyoYwxXQ"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Frontend tools",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Angular",
+          "url": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-1024.png",
+          "embbedLink": "https://www.youtube.com/embed/k5E2AVpwsko"
+        },
+        {
+          "id": "1",
+          "caption": "React",
+          "url": "https://nickroberts.ninja/wp-content/uploads/2017/07/react.jpg",
+          "embbedLink": "https://www.youtube.com/embed/SqcY0GlETPk"
+        },
+        {
+          "id": "4",
+          "caption": "Vue Js",
+          "url": "https://swansoftwaresolutions.com/wp-content/uploads/2020/01/Benefits-of-Using-VUE.JS.jpeg",
+          "embbedLink": "https://www.youtube.com/embed/nhBVL41-_Cw"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Luminar",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Luminar",
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEOtipWcEz4fQ/company-logo_200_200/0/1575287672869?e=2159024400&v=beta&t=ytiyGwQ8QFsaAX9rxtDsTCLKmTBun96uSrPECYcBg2c",
+          "embbedLink": "https://www.youtube.com/embed/1skqyoYwxXQ"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "MERN",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "MERN",
+          "url": "https://miro.medium.com/max/1400/1*k0SazfSJ-tPSBbt2WDYIyw.png",
+          "embbedLink": "https://www.youtube.com/embed/fKJVxItLiUw"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "MERN",
+      "embbedLink": "https://www.youtube.com/embed/fKJVxItLiUw",
+      "timeStamp": "10/12/2023, 10:41:47 AM",
+      "id": 1
+    },
+    {
+      "caption": "Vue Js",
+      "embbedLink": "https://www.youtube.com/embed/nhBVL41-_Cw",
+      "timeStamp": "10/12/2023, 10:42:03 AM",
+      "id": 3
+    },
+    {
+      "caption": "Angular",
+      "embbedLink": "https://www.youtube.com/embed/k5E2AVpwsko",
+      "timeStamp": "10/13/2023, 03:27:37 PM",
+      "id": 4
+    }
+  ]
+}
